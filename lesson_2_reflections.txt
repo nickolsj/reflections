@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repo, it creates the neccessary git files
+to enable file tracking and commits. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is an intermediate step between the wd and the repo. It allows the user
+to be sure of the contents of the commit before submitting it.

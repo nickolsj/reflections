@@ -6,3 +6,12 @@ machines or if other people are contributing.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Someone contributing to a remote could mess up what you are working on if you automatically sync to it.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks: When you want to modify someones repository for your own needs
+but they want to preserve theirs.
+
+Clones: Used to update local repositories.
+
+Branches: Used to test out different directions of your own repository.
